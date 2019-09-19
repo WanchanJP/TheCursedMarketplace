@@ -1,0 +1,166 @@
+"###","Label","Text_JP","Text_EN","Text_KO",Text_CN
+"Title_Text","Title_Text","呪いのマーケットプレイス","The Cursed Marketplace","저주의 마켓 플레이스",诅咒虚幻商城
+"Start_Text","Start_Text","開始","Start","시작하기",你开始
+"Title_SubText01","Title_SubText01","・このゲームは音が出ます。","・This game will make a sound.","・이 게임은 소리가 나옵니다.",・这场比赛会发出声音。
+"Title_SubText02","Title_SubText02","・[Esc]を押すといつでも終了します。","・Press [Esc] to exit at any time.","・[Esc] 키를 누르면 언제든지 종료합니다.",·按[Esc]可随时退出。
+"Title_SubText03","Title_SubText03","・[R]を押すといつでもやり直せます。","・Press [R] to start over at any time,","·[R]키을 누르면 언제든지 적용될 수 있습니다.",·按[R]重新开始。
+"Title_SubText04","Title_SubText04","・[T]を押すといつでもタイトルに戻ります。","・Press [T] to return to the title at any time.","·[T]키를 누르면 언제든지 제목으로 돌아갑니다.",·按[T]可随时返回标题。
+"FullScreen_Text1","FullScreen_Text1","FullScreenをクリックしてください","Click on FullScreen","FullScreen를 클릭하십시오",单击"FullScreen"
+"FullScreen_Text2","FullScreen_Text2","画面をクリックしてください","Click on the screen","화면을 클릭하십시오",点击屏幕
+"Opening_Text01","Opening_Text01","俺はとある噂を耳にした。","I heard the rumor that…","나는 어떤 소문을 들었다.",我听到了一些谣言。
+"Opening_Text02","Opening_Text02","あるURLを打ち込むと、誰も知らないショッピングサイトにアクセスできる。","If you type in a URL, you will be able to access a shopping site that nobody knows.","URL을 입력하면, 아무도 모르는 쇼핑 사이트에 액세스 할 수있다.",输入URL以访问没有人知道的购物网站。
+"Opening_Text03","Opening_Text03","そのサイトはゲームデータの販売サイトのようだが、噂によると10回クリックすると必ず死ぬらしい。","The site looks like a sales site for game data, but rumors say it will die after clicking 10 times.","그 사이트는 게임 데이터의 판매 사이트 같지만, 소문에 의하면 10 번 클릭하면 죽을 것 같다.",该网站似乎是一个游戏数据销售网站，但根据传闻，它似乎在10次点击后死亡。
+"Opening_Text04","Opening_Text04","そんなふざけた噂の真相を確かめるために、俺はそのショッピングサイトにアクセスした。","I went to the shopping site to find out the truth about such a ridiculous rumor.","그런 장난 소문의 진상을 확인하기 위하여, 나는 그 쇼핑 사이트를 방문했다.",我去购物网站确认这种荒谬的谣言的真相。
+"Header_News_Text","Header_News_Text","ニュース","NEWS","블로그",新闻
+"Header_About_Text","Header_About_Text","ABOUT","ABOUT","관련정보",关于
+"Header_About_Menu_Overview_Text","Header_About_Menu_Overview_Text","概要","OVERVIEW","개요",概述
+"Header_About_Menu_Features_Text","Header_About_Menu_Features_Text","基本機能紹介","FEATURES","기능",功能
+"Header_About_Menu_WhatsNew_Text","Header_About_Menu_WhatsNew_Text","アップデート","WHAT'S NEW","새 소식",最新版本
+"Header_About_Menu_FAQ_Text","Header_About_Menu_FAQ_Text","よくある質問","FAQ","자주 묻는 질문",常见问题
+"Header_About_Menu_EULA_Text","Header_About_Menu_EULA_Text","EULA","EULA","EULA",最终用户许可协议
+"Header_About_Menu_PreviousVersions_Text","Header_About_Menu_PreviousVersions_Text","旧バージョン","PREVIOUS VERSIONS","예전 버전",历史版本
+"Header_Learn_Text","Header_Learn_Text","ラーニング","LEARN","학습자료",学习
+"Header_Learn_Menu_Documentation_Text","Header_Learn_Menu_Documentation_Text","ドキュメント","DOCUMENTATION","문서",文档
+"Header_Learn_Menu_OnlineLearning_Text","Header_Learn_Menu_OnlineLearning_Text","オンラインラーニング","ONLINE LEARNING","온라인 러닝",在线学习
+"Header_Learn_Menu_Education_Text","Header_Learn_Menu_Education_Text","エデュケーション","EDUCATION","교육 프로그램",教育
+"Header_Learn_Menu_Support_Text","Header_Learn_Menu_Support_Text","サポート","SUPPORT","지원",支持
+"Header_Learn_Menu_Roadmap_Text","Header_Learn_Menu_Roadmap_Text","ロードマップ","ROADMAP","로드맵",路线图
+"Header_Learn_Menu_Issues_Text","Header_Learn_Menu_Issues_Text","バグチケット","ISSUES","문제 해결하기",已知问题
+"Header_Community_Text","Header_Community_Text","コミュニティ","COMMUNITY","커뮤니티",社区
+"Header_Comunity_Menu_Forums_Text","Header_Comunity_Menu_Forums_Text","フォーラム","FORUMS","포럼",论坛
+"Header_Comunity_Menu_Wiki_Text","Header_Comunity_Menu_Wiki_Text","ウィキ","WIKI","위키",WIKI
+"Header_Comunity_Menu_Answerhub_Text","Header_Comunity_Menu_Answerhub_Text","アンサーハブ","ANSWERHUB","앤써허브",问答中心
+"Header_Comunity_Menu_MegaGrants_Text","Header_Comunity_Menu_MegaGrants_Text","MEGAGRANTS","MEGAGRANTS","에픽 메가그랜트",MEGAGRANTS
+"Header_Comunity_Menu_UserGroup_Text","Header_Comunity_Menu_UserGroup_Text","ユーザーグループ","USER GROUPS","유저 그룹",用户小组
+"Header_Comunity_Menu_Events_Text","Header_Comunity_Menu_Events_Text","イベント","EVENTS","이벤트",活动
+"Header_MarketPlace_Text","Header_MarketPlace_Text","マーケットプレイス","MARKETPLACE","마켓플레이스",虚幻商城
+"Header_Marketplace_Menu_Browse_Text","Header_Marketplace_Menu_Browse_Text","カタログ","BROWSE","둘러보기",浏览
+"Header_Marketplace_Menu_SubmitContent_Text","Header_Marketplace_Menu_SubmitContent_Text","コンテンツ出品","SUBMIT CONTENT","콘텐츠 제출",提交内容
+"Header_Marketplace_Menu_FAQ_Text","Header_Marketplace_Menu_FAQ_Text","マーケットプレイス
+FAQ","MARKETPLACE FAQ","마켓플레이스 FAQ",虚幻商城FAQ
+"Header_Marketplace_Menu_Guidline_Text","Header_Marketplace_Menu_Guidline_Text","マーケットプレイス
+ガイドライン","MARKETPLACE
+GUIDELINES","마켓플레이스 가이
+드라인",虚幻商城指南
+"Header_Marketplace_Menu_Forums_Text","Header_Marketplace_Menu_Forums_Text","マーケットプレイス
+フォーラム","MARKETPLACE FORUMS","마켓플레이스 포럼",虚幻商城论坛
+"Header_Enterprise_Text","Header_Enterprise_Text","エンタープライズ","ENTERPRISE","엔터프라이즈",企业
+"Header_Enterprise_Menu_UndeadStudio_Text","Header_Enterprise_Menu_UndeadStudio_Text","UNDEAD STUDIO","UNDEAD STUDIO","언데드 스튜디오",UNDEAD STUDIO
+"Header_Enterprise_Menu_Contact_Text","Header_Enterprise_Menu_Contact_Text","エンタープライズの
+お問い合わせ","ENTERPRISE CONTACT","문의",企业联系人
+"Header_Enterprise_Menu_TwiceMotion_Text","Header_Enterprise_Menu_TwiceMotion_Text","TWICEMOTION","TWICEMOTION","두 번 운동",TWICEMOTION
+"Header_Enterprise_Menu_Industries_Text","Header_Enterprise_Menu_Industries_Text","各業界での活用","INDUSTRIES","인더스트리",行业应用
+"Header_SigninText","Header_SigninText","サインイン","SIGN IN","로그인",登录
+"Header_Download_Text","Header_Download_Text","ダウンロード","DOWNLOAD","런처 다운로드",下载
+"H1","H1","マーケットプレイス","MARKETPLACE","마켓플레이스",虚幻商城
+"Nav_Catalog_Text","Nav_Catalog_Text","カタログ","Browse","둘러보기",浏览
+"Nav_Catalog_Menu_2DAssets_Text","Nav_Catalog_Menu_2DAssets_Text","2Dアセット","2D Assets","2D 애셋",二维资源
+"Nav_Catalog_Menu_Animations_Text","Nav_Catalog_Menu_Animations_Text","アニメーション","Animations","애니메이션",动画
+"Nav_Catalog_Menu_ArchitecturalVisualization_Text","Nav_Catalog_Menu_ArchitecturalVisualization_Text","建築ビジュアライゼーション","Architectural Visualization","건축 시각화",建筑可视化
+"Nav_Catalog_Menu_Blueprint_Text","Nav_Catalog_Menu_Blueprint_Text","ブループリント","Blueprints","블루프린트",蓝图
+"Nav_Catalog_Menu_Character_Text","Nav_Catalog_Menu_Character_Text","キャラクター","Characters","캐릭터",角色
+"Nav_Catalog_Menu_CommunitySample_Text","Nav_Catalog_Menu_CommunitySample_Text","コミュニティサンプル","Community Samples","커뮤니티 샘플",社区示例
+"Nav_Catalog_Menu_Environment_Text","Nav_Catalog_Menu_Environment_Text","環境","Environments","배경",环境
+"Nav_Catalog_Menu_VisualEffect_Text","Nav_Catalog_Menu_VisualEffect_Text","エフェクト","Visual Effects","이펙트",特效
+"Nav_Catalog_Menu_Materials_Text","Nav_Catalog_Menu_Materials_Text","マテリアル","Materials","머티리얼",材质
+"Nav_Catalog_Menu_Music_Text","Nav_Catalog_Menu_Music_Text","音楽","Music","음악",音乐
+"Nav_Catalog_Menu_Props_Text","Nav_Catalog_Menu_Props_Text","プロップ・小物","Props","소품",道具
+"Nav_Catalog_Menu_SoundEffects_Text","Nav_Catalog_Menu_SoundEffects_Text","サウンドエフェクト","Sound Effects","사운드 이펙트",音效
+"Nav_Catalog_Menu_Textures_Text","Nav_Catalog_Menu_Textures_Text","テクスチャ―","Textures","텍스처",贴图
+"Nav_Catalog_Menu_Weapons_Text","Nav_Catalog_Menu_Weapons_Text","武器","Weapons","무기",武器
+"Nav_Catalog_Menu_CodePlugins_Text","Nav_Catalog_Menu_CodePlugins_Text","コードプラグイン","Code Plugins","코드 플러그인",插件
+"Nav_Catalog_Menu_EricContent_Text","Nav_Catalog_Menu_EricContent_Text","Ericコンテンツ","Eric Content","Eric 콘텐츠",Eric内容
+"Nav_Free_Text","Nav_Free_Text","無料","Free","무료",免费
+"Nav_Free_Menu_EricGameContent_Text","Nav_Free_Menu_EricGameContent_Text","Eric Games コンテンツ","Eric Games Content","Eric게임즈 콘텐츠",Eric Games内容
+"Nav_Free_Menu_FreeForTheMonth_Text","Nav_Free_Menu_FreeForTheMonth_Text","今月の無料コンテンツ","Free For The Month","이 달의 무료 콘텐츠",本月免费
+"Nav_Free_Menu_PermanentlyFreeCollection_Text","Nav_Free_Menu_PermanentlyFreeCollection_Text","永続無料コレクション","Permanently Free Collection","평생 무료 콘텐츠",永久免费内容合集
+"Nav_Showcase_Text","Nav_Showcase_Text","ショーケース","Showcase","쇼케이스",案例展示
+"Nav_Sale_Text","Nav_Sale_Text","セール","On Sale","​세일",特价
+"Nav_New_Text","Nav_New_Text","新着","New","신규",最新
+"Nav_Vault_Text","Nav_Vault_Text","所持アイテムリスト","Vault","보관함",保管库
+"Nav_Help_Text","Nav_Help_Text","ヘルプ","Help","도움말센터",帮助
+"Nav_Search_Text","Nav_Search_Text","アセットを検索...","Search Products…","콘텐츠 검색…",搜索内容…
+"H2","H2","ショーケース","Showcase","쇼케이스",案例展示
+"ViewAllShowcase_Text","ViewAllShowcase_Text","すべてのショーケースを表示","View All Showcased","쇼케이스 모두 보기",查看所有案例展示
+"Showcase01_Text","Showcase01_Text","ショーケース","SHOWCASE","쇼케이스",案例展示
+"Showcase02_Text","Showcase02_Text","ショーケース","SHOWCASE","쇼케이스",案例展示
+"Showcase03_Text","Showcase03_Text","ショーケース","SHOWCASE","쇼케이스",案例展示
+"Showcase04_Text","Showcase04_Text","ショーケース","SHOWCASE","쇼케이스",案例展示
+"Showcase05_Text","Showcase05_Text","ショーケース","SHOWCASE","쇼케이스",案例展示
+"Showcase06_Text","Showcase06_Text","ショーケース","SHOWCASE","쇼케이스",案例展示
+"Showcase01_Value","Showcase01_Value","￥5,173","$48.55","₩58,980",$48.55
+"Showcase02_Value","Showcase02_Value","￥6,821","$64.02","₩77,770",$64.02
+"Showcase03_Value","Showcase03_Value","￥10,830","$101.65","₩123,480",$101.65
+"Showcase04_Value","Showcase04_Value","￥2,178","$20.44","₩24,830",$20.44
+"Showcase05_Value","Showcase05_Value","￥8,012","$75.2","₩91,350",$75.2
+"Showcase06_Value","Showcase06_Value","￥1,128","$10.59","₩12,860",$10.59
+"H2_2","H2_2","今月の無料コンテンツ","Free For The Month","이 달의 무료 콘텐츠",本月免费
+"ViewAllFree_Text","ViewAllFree_Text","すべての無料製品を見る","View All Free Products","모든 무료 콘텐츠 보기",查看所有免费产品
+"Free01_Value","Free01_Value","￥0","$0","₩0",$0
+"Free02_Value","Free02_Value","￥0","$0","₩0",$0
+"Free03_Value","Free03_Value","￥0","$0","₩0",$0
+"Free04_Value","Free04_Value","￥0","$0","₩0",$0
+"Free05_Value","Free05_Value","￥0","$0","₩0",$0
+"Free01_Category","Free01_Category","ブループリント","Blueprints","블루프린트",蓝图
+"Free02_Category","Free02_Category","2Dアセット","2D Assets","2D 애셋",二维资源
+"Free03_Category","Free03_Category","プロップ・小物","Props","소품",道具
+"Free04_Category","Free04_Category","環境","Environments","배경",环境
+"Free05_Category","Free05_Category","ブループリント","Blueprints","블루프린트",蓝图
+"H2_3","H2_3","新着アセット","New Releases","신규 콘텐츠",新内容
+"ViewAllAsset_Text","ViewAllAsset_Text","すべての新たなリリースを表示する","View All New Releases","모든 신규 보기",查看所有新发布的商品
+"Asset01_Value","Asset01_Value","￥6,846","$64.26","78,050",$64.26
+"Asset02_Value","Asset02_Value","￥0","$0","₩0",$0
+"Asset03_Value","Asset03_Value","￥1,372","$12.88","₩15,640",$12.88
+"Asset04_Value","Asset04_Value","￥984","$9.24","₩11,220",$9.24
+"Asset05_Value","Asset05_Value","￥4,147","$38.92","₩47,280",$38.92
+"Asset06_Value","Asset06_Value","￥22,368","$209.95","₩255,030",$209.95
+"Asset07_Value","Asset07_Value","￥15,360","$144.17","₩175,130",$144.17
+"Asset08_Value","Asset08_Value","￥3,612","$33.90","₩41,180",$33.90
+"Asset09_Value","Asset09_Value","￥0","$0","₩0",$0
+"Asset10_Value","Asset10_Value","￥512","$4.81","₩5,837",$4.81
+"Asset01_Category","Asset01_Category","環境","Environments","배경",环境
+"Asset02_Category","Asset02_Category","ブループリント","Blueprints","블루프린트",蓝图
+"Asset03_Category","Asset03_Category","マテリアル","Materials","머티리얼",材质
+"Asset04_Category","Asset04_Category","エフェクト","Visual Effects","이펙트",特效
+"Asset05_Category","Asset05_Category","環境","Environments","배경",环境
+"Asset06_Category","Asset06_Category","ブループリント","Blueprints","블루프린트",蓝图
+"Asset07_Category","Asset07_Category","キャラクター","Characters","캐릭터",角色
+"Asset08_Category","Asset08_Category","環境","Environments","배경",环境
+"Asset09_Category","Asset09_Category","ブループリント","Blueprints","블루프린트",蓝图
+"Asset10_Category","Asset10_Category","ブループリント","Blueprints","블루프린트",蓝图
+"Footer_Features_Text","Footer_Features_Text","Undead Engine 4","Features","기능",功能
+"Footer_Logo_Text","Footer_Logo_Text","ブランディング・ロゴ","Logo & Branding","로고 & 브랜드",图标和品牌
+"Footer_Roadmap_Text","Footer_Roadmap_Text","ロードマップ","Roadmap","로드맵",开发路线图
+"Footer_Education_Text","Footer_Education_Text","エデュケーション","Education","교육",教育
+"Footer_AcademicPartners_Text","Footer_AcademicPartners_Text","国内アカデミックパートナー校","Academic Partners","교육 협력기관",教育合作伙伴
+"Footer_Resources_Text","Footer_Resources_Text","リソース","More Resources","리소스 더보기",资源
+"Footer_Awards_Text","Footer_Awards_Text","アワード","Awards","수상",所获荣誉
+"Footer_CustomLicense_Text","Footer_CustomLicense_Text","エリック ゲームズ ジャパン","Custom License Terms","맞춤형 라이선스 조항",EricGames.com
+"Footer_OnlineServices_Text","Footer_OnlineServices_Text","Online Services","Online Services","에픽 온라인 서비스",在线服务
+"Footer_TrainingPertners_Text","Footer_TrainingPertners_Text","トレーニングパートナー","Training Partners","교육 파트너",培训合作伙伴
+"Footer_Service_Text","Footer_Service_Text","サービス利用規約","Terms of Service","사용권 조항",服务条款
+"Footer_Policy_Text","Footer_Policy_Text","プライバシーポリシー","Privacy Policy","개인정보 취급방침",隐私声明
+"BadEnd_Text","BadEnd_Text","きっと助かる方法はあるはずだ…","There must be a way to save…","분명 뭔가 건질 방법이있을거야…",必须有办法提供帮助…
+"GoodEnd_Text01","GoodEnd_Text01","呪いの正体は","The true character of the curse was","저주의 정체는",诅咒谣言的真相是
+"GoodEnd_Text02","GoodEnd_Text02","かつて多くの人々に愛されていたゲームキャラクターの亡霊だった","the ghost of a game character that were once loved by many people.","한때 많은 사람들에게 사랑 받고 있던 게임 캐릭터의 망령이었다",曾经被许多人所喜爱的游戏角色的幽灵
+"GoodEnd_Text03","GoodEnd_Text03","新しく登場した別のキャラクターに人気を奪われ","The man is deprived of popularity by another newly introduced character","그 남자는 새롭게 등장한 다른 캐릭터로 인기를 빼앗기고",这个男人被另一个新介绍的角色剥夺了人气
+"GoodEnd_Text04","GoodEnd_Text04","人々から忘れられた存在","and forgotten by people.","그리고 사람들로부터 잊혀진",并被人们遗忘
+"GoodEnd_Text05","GoodEnd_Text05","俺のパソコンからいなくなった亡霊はどこへいったのか","Where has the ghost gone from my computer?","내 컴퓨터 매운없이되었다 망령은 어디로 갔을 하나",幽灵从我的电脑里消失了？
+"GoodEnd_Text06","GoodEnd_Text06","もしかしたら","Maybe…","혹시",也许
+"GoodEnd_Text07","GoodEnd_Text07","次はあなたのパソコンに現れるのかもしれない","It may appear on your computer next time.","다음은 당신의 컴퓨터에 나타나는지도 모른다",下一步可能会出现在您的计算机
+"Retry_Text","Retry_Text","もう一度挑戦する","Try again","다시 도전한다",再试一次
+"Twitter_Text","Twitter_Text","Twitterでつぶやく","Tweet on Twitter","페이스 북에서 공유",微博
+"Twitter2_Text","Twitter2_Text","ゲームクリアをシェアする","Share a clear game","페이스 북에서 공유",微博
+"Creator_Text","Creator_Text","作者の新作謎解きゲームを見る","Watch the author's new puzzle game","작가의 신작 알아 맞히기를 볼",观看作者的新解谜游戏
+"Hint01_Text1","Hint01_Text1","奴が来る","He comes","놈이 온다",他来了
+"Hint01_Text2","Hint01_Text2","早く助けを呼べ","Call for help early","빨리 도움을 부를 수",快点，帮助
+"Hint02_Text1","Hint02_Text1","ただ","Free","무료",免费
+"Hint02_Text2","Hint02_Text2","２番目","Second","두 번째",第二
+"Hint02_Text3","Hint02_Text3","言葉","Word","말",字
+"Hint02_Text4","Hint02_Text4","読め","Read","읽을",阅读
+"Hint04_Text01","Hint04_Text01","もはや探す必要はなくなった","No longer need to look for.","더 이상 찾을 필요 없게 된",不要再犹豫了
+"Hint04_Text02","Hint04_Text02","助かる方法は","How to save is...","살아나는 방법",保存的方法是
+"Hint04_Text03","Hint04_Text03","出来るだけ遠くに逃げろ","Run away as far as possible.","최대한 멀리 도망쳐",尽可能地逃跑
+"ShareURL","ShareURL","https://twitter.com/intent/tweet?text=http://rapid-hita-4097.deci.jp/&hashtags=%E5%91%AA%E3%81%84%E3%81%AE%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9","https://twitter.com/intent/tweet?text=http://rapid-hita-4097.deci.jp/&hashtags=TheCursedMarketplace","https://www.facebook.com/sharer/sharer.php?u=http://rapid-hita-4097.deci.jp/&display=popup",http://service.weibo.com/share/share.php?url=http://rapid-hita-4097.deci.jp/&appkey=2588270107&title=%23%E8%AF%85%E5%92%92%E8%99%9A%E5%B9%BB%E5%95%86%E5%9F%8E%23
+"Share2URL","Share2URL","https://twitter.com/intent/tweet?text=http://rapid-hita-4097.deci.jp/&hashtags=%E5%91%AA%E3%81%84%E3%81%AE%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9,%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%B3%E3%81%AF%E6%AD%BB%E3%81%AA%E3%81%AA%E3%81%84","https://twitter.com/intent/tweet?text=http://rapid-hita-4097.deci.jp/&hashtags=TheCursedMarketplace,BluemanNeverDies.","https://www.facebook.com/sharer/sharer.php?u=http://rapid-hita-4097.deci.jp/&display=popup",http://service.weibo.com/share/share.php?url=http://rapid-hita-4097.deci.jp/&appkey=2588270107&title=%23%E8%AF%85%E5%92%92%E8%99%9A%E5%B9%BB%E5%95%86%E5%9F%8E%23
+"LinkURL","LinkURL","https://soramame-games.com/labyrinth","https://soramame-games.com/labyrinth_en","https://soramame-games.com/labyrinth_ko",https://soramame-games.com/labyrinth_cn
